@@ -15,6 +15,10 @@ app.get('/', function (req, res) {
   {
     "id": 2,
     "title": "Questo è un altro cazzo di titolo"
+  },
+  {
+    "id": 3,
+    "title": "Questo è un altro cazzo di titolo con apporovazione manuale"
   }])
 })
 
